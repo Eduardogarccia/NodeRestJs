@@ -1,5 +1,4 @@
-# NodeRestJs
-# Projeto Nome do Projeto
+# Bless Basket
 
 Este é um projeto que utiliza as tecnologias Node.js, Express, React, Vite e MongoDB.
 
@@ -15,23 +14,23 @@ Este é um projeto que utiliza as tecnologias Node.js, Express, React, Vite e Mo
 
 O novo backend apresenta várias melhorias em relação à versão anterior:
 
-1. **Código Mais Organizado**: O código foi reestruturado e organizado para facilitar a manutenção e o desenvolvimento futuro.
+1. *Código Mais Organizado*: O código foi reestruturado e organizado para facilitar a manutenção e o desenvolvimento futuro.
 
-2. **Mensagens de Erro Corrigidas**: As mensagens de erro foram revisadas e corrigidas para garantir que sejam exibidas nos momentos corretos e sejam informativas.
+2. *Mensagens de Erro Corrigidas*: As mensagens de erro foram revisadas e corrigidas para garantir que sejam exibidas nos momentos corretos e sejam informativas.
 
-3. **Arquivo .env Adicionado**: Um arquivo `.env` foi criado e agora está presente no projeto para gerenciar variáveis de ambiente sensíveis.
+3. *Arquivo .env Adicionado*: Um arquivo `.env` foi criado e agora está presente no projeto para gerenciar variáveis de ambiente sensíveis.
 
-4. **Implementação do README**: Um README foi criado para documentar o projeto e fornecer informações importantes aos colaboradores e usuários.
+4. *Implementação do README*: Um README foi criado para documentar o projeto e fornecer informações importantes aos colaboradores e usuários.
 
-5. **Autenticação Funcionando 100%**: Todas as rotas relacionadas à autenticação foram testadas via Postman e agora funcionam perfeitamente.
+5. *Autenticação Funcionando 100%*: Todas as rotas relacionadas à autenticação foram testadas via Postman e agora funcionam perfeitamente.
 
-6. **CRUD dos Produtos Funcionando 100%**: Todas as rotas relacionadas à criação, leitura, atualização e exclusão de produtos foram testadas via Postman e estão funcionando corretamente.
+6. *CRUD dos Produtos Funcionando 100%*: Todas as rotas relacionadas à criação, leitura, atualização e exclusão de produtos foram testadas via Postman e estão funcionando corretamente.
 
-7. **CRUD dos Usuários Funcionando 100%**: Todas as rotas relacionadas à criação, leitura, atualização e exclusão de usuários foram testadas via Postman e estão funcionando corretamente.
+7. *CRUD dos Usuários Funcionando 100%*: Todas as rotas relacionadas à criação, leitura, atualização e exclusão de usuários foram testadas via Postman e estão funcionando corretamente.
 
-8. **Criação da Rota createUser**: Uma nova rota, `createUser`, foi adicionada para facilitar o registro de novos usuários.
+8. *Criação da Rota createUser*: Uma nova rota, `createUser`, foi adicionada para facilitar o registro de novos usuários.
 
-9. **Middleware Funcionando**: O middleware foi implementado e está funcionando corretamente para lidar com solicitações e autorização.
+9. *Middleware Funcionando*: O middleware foi implementado e está funcionando corretamente para lidar com solicitações e autorização.
 
 ## Página de Login
 
